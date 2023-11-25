@@ -1,5 +1,4 @@
 # message-hiding-in-image
-# message-hiding-in-image
 import cv2
 import os
 import string
